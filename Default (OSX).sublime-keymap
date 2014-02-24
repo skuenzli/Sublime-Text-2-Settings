@@ -1,0 +1,3 @@
+[
+	{ "keys": ["super+f4"], "command": "close" }
+]
